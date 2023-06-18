@@ -1,5 +1,6 @@
 ## Introdução
-    Esse foi um projeto de iniciação cientifica do tipo PIBITI pelo LADIP em que se levantou os instrumentos utilizados pelos professores do PPG de psicologia clinica e do LADIP e os transformou em linguagem formR (Uma plataforma de livre acesso que trabalha em uma linguagem próxima do R), e os disponibilizou para acesso
+Esse foi um projeto de iniciação cientifica do tipo PIBITI pelo LADIP em que se levantou os instrumentos utilizados pelos professores do PPG de psicologia clinica e do LADIP e os transformou em linguagem formR (Uma plataforma de livre acesso que trabalha em uma linguagem próxima do R), e os disponibilizou para acesso
+
 <img src="https://github.com/Ladip-pucrio/Instrumentos-Pibiti/assets/137005138/5e9e90ce-c401-4a6d-af20-f602fb648b62" width="250" height="250">
 
 # Explicação
