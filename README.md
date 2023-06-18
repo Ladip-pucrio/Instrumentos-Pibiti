@@ -17,3 +17,6 @@ Com o acesso de administrador, a pessoa que for usar deverá baixar o questioná
 Após o upload do instrumento desejado, deverá ser criado uma run no botão ao lado da criação da Survey (Canto superior esquerdo). Após a nomeação da run, deverá ser adicionado todos os instrumentos desejados clicando no botão circulado de vermelho e escolhendo qual deseja adicionar seguindo a ordem desejada, após selecionado todos os instrumentos desejados deverá ser clicado no quadrado (circulado de roxo) para dar um ponto final a run 
 
 <img src="https://github.com/Ladip-pucrio/Instrumentos-Pibiti/assets/137005138/81e2aa60-7d86-4e0f-8125-cd74603de401" width="400" height="250">
+
+## Exportando resultados
+Para exportar os resultados a pessoa deverá voltar a tela da survey e escolher a desejada, e clicar em "Export Results" na esquerda e escolher o formato desejado 
