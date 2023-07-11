@@ -1,7 +1,8 @@
 ## Introdução
 Esse foi um projeto de iniciação cientifica do tipo PIBITI pelo LADIP em que se levantou os instrumentos utilizados pelos professores do PPG de psicologia clinica e do LADIP e os transformou em linguagem formR (Uma plataforma de livre acesso que trabalha em uma linguagem próxima do R), e os disponibilizou para acesso
 
-<img src="https://github.com/Ladip-pucrio/Instrumentos-Pibiti/assets/137005138/5e9e90ce-c401-4a6d-af20-f602fb648b62" width="250" height="250">
+<img src="https://github.com/Ladip-pucrio/Instrumentos-Pibiti/assets/137005138/c1c39818-1bce-41f1-8ac8-9b7f2bab2489" width="250" height="250">
+
 
 ## Criação de Conta
 Primeiro, quem for usar deverá criar uma conta no site https://formr.org utilizando a key (Inserir aqui se tiver) e depois enviar um email para accounts@formr.org solicitando acesso de administrador
